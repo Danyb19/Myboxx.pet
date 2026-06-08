@@ -1,4 +1,4 @@
-# MyBoxч Pet
+# MyBoxx Pet
 
 An educational project created to practice HTML, CSS, and JavaScript.
 
